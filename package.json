@@ -1,0 +1,30 @@
+{
+  "name": "ydkjs-tex",
+  "version": "1.0.0",
+  "description": "A LaTeX port of You Don't Know JS book series",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "marked": "^0.3.5",
+    "marked-tex-renderer": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampathsris/ydkjs-tex.git"
+  },
+  "keywords": [
+    "ydkjs",
+    "javascript",
+    "book"
+  ],
+  "author": "Sampath Sitinamaluwa <sampathsris@gmail.com> (https://github.com/sampathsris)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampathsris/ydkjs-tex/issues"
+  },
+  "homepage": "https://github.com/sampathsris/ydkjs-tex#readme"
+}
