@@ -20,6 +20,8 @@ If you already haven't installed `grunt-cli`:
 npm install -g grunt-cli
 ```
 
+And then,
+
 ```
 npm install
 grunt
