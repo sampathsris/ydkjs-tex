@@ -1,0 +1,151 @@
+[
+	{
+		"folderName": "up & going",
+		"bookName": "Up & Going",
+		"content": {
+			"pre": [
+				"foreword.md"
+			],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md"
+			],
+			"apx": [
+				"apA.md"
+			],
+			"assets": [
+				"fig1.png",
+				"fig2.png",
+				"fig3.png",
+				"fig4.png",
+				"fig5.png",
+				"fig6.png"
+			]
+		}
+	},
+	{
+		"folderName": "scope & closures",
+		"bookName": "Scope & Closures",
+		"content": {
+			"pre": [],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md",
+				"ch4.md",
+				"ch5.md"
+			],
+			"apx": [
+				"apA.md",
+				"apB.md",
+				"apC.md",
+				"apD.md"
+			],
+			"assets": [
+				"fig1.png",
+				"fig2.png"
+			]
+		}
+	},
+	{
+		"folderName": "this & object prototypes",
+		"bookName": "`this` & Object Prototypes",
+		"content": {
+			"pre": [
+				"foreword.md"
+			],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md",
+				"ch4.md",
+				"ch5.md",
+				"ch6.md"
+			],
+			"apx": [
+				"apA.md",
+				"apB.md"
+			],
+			"assets": [
+				"fig1.png",
+				"fig2.png",
+				"fig3.png",
+				"fig4.png",
+				"fig5.png",
+				"fig6.png"
+			]
+		}
+	},
+	{
+		"folderName": "types & grammar",
+		"bookName": "Types & Grammar",
+		"content": {
+			"pre": [
+				"foreword.md"
+			],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md",
+				"ch4.md",
+				"ch5.md"
+			],
+			"apx": [
+				"apA.md",
+				"apB.md"
+			],
+			"assets": [
+				"fig1.png"
+			]
+		}
+	},
+	{
+		"folderName": "async & performance",
+		"bookName": "Async & Performance",
+		"content": {
+			"pre": [
+				"foreword.md"
+			],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md",
+				"ch4.md",
+				"ch5.md",
+				"ch6.md"
+			],
+			"apx": [
+				"apA.md",
+				"apB.md",
+				"apC.md"
+			],
+			"assets": []
+		}
+	},
+	{
+		"folderName": "es6 & beyond",
+		"bookName": "ES6 & Beyond",
+		"content": {
+			"pre": [
+				"foreword.md"
+			],
+			"main": [
+				"ch1.md",
+				"ch2.md",
+				"ch3.md",
+				"ch4.md",
+				"ch5.md",
+				"ch6.md",
+				"ch7.md",
+				"ch8.md"
+			],
+			"apx": [
+				"apA.md"
+			],
+			"assets": [
+				"fig1.png"
+			]
+		}
+	}
+]
